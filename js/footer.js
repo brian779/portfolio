@@ -1,0 +1,1 @@
+document.write('<footer class="footer"><p>Brian Gonzales Web Portfolio</p></footer>');

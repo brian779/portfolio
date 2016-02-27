@@ -1,0 +1,21 @@
+
+@media(min-width:767px) {
+    .navbar {
+        background-color : transparent;
+        border-color: transparent;
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+    nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
+        background-color: hsla(222,100%,97%,1);
+        background-image: repeating-linear-gradient(45deg, transparent 5px, hsla(197, 62%, 11%, 0.25) 5px, hsla(197, 62%, 11%, 0.17) 10px, hsla(5, 53%, 63%, 0) 10px, hsla(5, 53%, 63%, 0) 35px, hsla(5, 53%, 63%, 0.5) 35px, hsla(5, 53%, 63%, 0.5) 40px,hsla(197, 62%, 11%, 0.21) 40px, hsla(197, 62%, 11%, 0.21) 50px, hsla(197, 62%, 11%, 0) 50px, hsla(197, 62%, 11%, 0) 60px,hsla(5, 53%, 63%, 0.5) 60px, hsla(5, 53%, 63%, 0.2) 70px, hsla(35, 91%, 65%, 0.5) 70px, hsla(35, 91%, 65%, 0.5) 80px,hsla(35, 91%, 65%, 0) 80px, hsla(35, 91%, 65%, 0) 90px, hsla(5, 53%, 63%, 0.25) 90px, hsla(5, 53%, 63%, 0.23) 110px, hsla(5, 53%, 63%, 0) 110px, hsla(5, 53%, 63%, 0) 120px, hsla(197, 62%, 11%, 0.22) 120px, hsla(197, 62%, 11%, 0.18) 140px), repeating-linear-gradient(135deg, transparent 5px, hsla(197, 62%, 11%, 0.14) 5px, hsla(197, 62%, 11%, 0.09) 10px, hsla(5, 53%, 63%, 0) 10px, hsla(5, 53%, 63%, 0) 35px, hsla(5, 53%, 63%, 0.12) 35px, hsla(5, 53%, 63%, 0.2) 40px, hsla(197, 62%, 11%, 0.12) 40px, hsla(197, 62%, 11%, 0.12) 50px, hsla(197, 62%, 11%, 0) 50px, hsla(197, 62%, 11%, 0) 60px, hsla(5, 53%, 63%, 0.18) 60px, hsla(5, 53%, 63%, 0.18) 70px, hsla(35, 91%, 65%, 0.17) 70px, hsla(35, 91%, 65%, 0.21) 80px, hsla(35, 91%, 65%, 0) 80px, hsla(35, 91%, 65%, 0) 90px, hsla(5, 53%, 63%, 0.14) 90px, hsla(5, 53%, 63%, 0.18) 110px, hsla(5, 53%, 63%, 0) 110px, hsla(5, 53%, 63%, 0) 140px, hsla(197, 62%, 11%, 0.24) 140px, hsla(197, 62%, 11%, 0.29) 160px);
+        border-color: #c7c7c7;
+    }   
+}
+
